@@ -3,7 +3,7 @@
 int main() {
 
 	printf("ey que pasa\n");
-	printf("SKERE");
+	printf("SKERE2");
 
 	system("pause");
 }
